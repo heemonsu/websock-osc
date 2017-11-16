@@ -35,8 +35,6 @@ pip install websocket-client
 node server.js
 ```
   <li>On the client side, launch the pyclient.py file.</li>
-  <li>You should see a 'Client connected' message each time a client is connected, and 'Client closed' when it disconnects on the server cmd.</li>
-  <li>
 </ul>
 
   
