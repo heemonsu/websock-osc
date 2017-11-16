@@ -1,0 +1,17 @@
+{
+  "name": "websock-osc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-osc": "^2.1.0",
+    "websocket": "^1.0.25",
+    "ws": "^3.3.1"
+  }
+}
